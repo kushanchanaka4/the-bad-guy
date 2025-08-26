@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+
+# 720p variant
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+https://hls2-cdn25.cdnup.cc/hls/EneIhJidJDsN4ehjtZ5EHzksb32KRt/index_1720x720.m3u8
+
+# 480p variant
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=854x480
+https://hls2-cdn25.cdnup.cc/hls/EneIhJidJDsN4ehjtZ5EHzksb32KRt/index_1146x480.m3u8
+
